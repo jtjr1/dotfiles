@@ -9,10 +9,10 @@ files that might be useful going forward.
 
 ##
 My set up currently uses the following:
-0. Windows
-1. WSL2
-2. Ubuntu
-3. Neovim
+1. Windows 10
+2. WSL2
+3. Ubuntu
+4. Neovim
 
 I used to mainly code on Sublime Text 3, but am moving trying to move over to Vim.
 
